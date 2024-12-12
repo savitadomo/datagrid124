@@ -1,0 +1,20 @@
+{
+  "type": "api",
+  "authCodeText": null,
+  "userName": null,
+  "password": null,
+  "apiKey": "****",
+  "clientKey": null,
+  "clientSecret": null,
+  "authorizationURL": null,
+  "accessTokenURL": null,
+  "oauthUserName": null,
+  "oauthPassword": null,
+  "scope": null,
+  "customAccountFields": [
+    {}
+  ],
+  "additionalParameters": null,
+  "tokenAddlParams": null,
+  "accesstokenMethod": null
+}
